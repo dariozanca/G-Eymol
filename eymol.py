@@ -1,12 +1,12 @@
 '''
-Created on:	29 May 2017
+Created on:	20 Dec 2019
 
-@author: 	Eymol Zanca (dario.zanca@unifi.it, dariozanca@gmail.com)
+@author: 	Dario Zanca, PhD (dario.zanca@unisi.it, dariozanca@gmail.com)
 
-            Ph.D. Student in Smart Computing,
-                University of Florence and University of Siena.
+            Post-doc @ University of Siena, Dept. of Medicine, Surgery and Neuroscience.
 
-@summary: 	Collection of functions to generate scanpaths with EYMOL.
+
+@summary: 	Collection of functions to generate scanpaths with G-EYMOL.
 '''
 
 #########################################################################################
